@@ -17,6 +17,7 @@ Meu nome é Luiz e sou desenvolvedor Back-End do Brasil.
 ## Tecnologias que uso
 
 <p align="left">
+  <img src="https://cdn-icons-png.flaticon.com/512/3291/3291669.png" height="40" alt="go logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/podman/podman-original.svg" height="40" alt="podman logo" />
