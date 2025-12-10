@@ -8,9 +8,9 @@ Meu nome é Luiz e sou desenvolvedor Back-End do Brasil.
 
 ✨ Criando bugs desde 2019
 
-📚 Atualmente estudando Go e infraestrutura em nuvem
+📚 Atualmente estudando Java e infraestrutura em nuvem
 
-🎯 Objetivo: dominar Go e construir sistemas escaláveis
+🎯 Objetivo: dominar Java, Go e construir sistemas escaláveis
 
 🎲 Curiosidade: gosto de mexer com servidores, TV e automação
 
